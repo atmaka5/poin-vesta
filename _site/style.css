@@ -323,7 +323,7 @@ article .avatar {
 
 @media screen and (max-width: 640px) {
   article ul,
-  article ol {
+article ol {
     padding-left: 2em;
   }
 }
@@ -336,19 +336,19 @@ article hr {
 
 @media screen and (max-width: 640px) {
   section .date.right,
-  .archive .date.right {
+.archive .date.right {
     float: none;
     display: inline-block;
   }
   section .date.right::before,
-  .archive .date.right::before {
+.archive .date.right::before {
     content: " — ";
   }
 }
 
 @media screen and (max-width: 640px) {
   article p,
-  .home p {
+.home p {
     margin-top: 0.25em;
   }
 }
@@ -546,6 +546,198 @@ div.search {
 /*------------------------------*/
 /* Import `default` last
 /*------------------------------*/
+/* [1] */
+/* [2] */
+/* [3] */
+/* [4] */
+/* [5] */
+/* [6] */
+/* Styles: */
+.icon {
+  position: relative;
+  background: white;
+  cursor: pointer;
+  margin: auto;
+  color: deepskyblue;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  line-height: 150px;
+  text-align: center;
+  font-size: 2.75em;
+  font-weight: bold;
+  transition: 0.24s 0.2s;
+}
+
+.icon:hover {
+  background: rgba(255, 255, 255, 0.75);
+}
+
+.menu {
+  position: absolute;
+  top: -75px;
+  left: -75px;
+  border: 150px solid transparent;
+  cursor: default;
+  border-radius: 50%;
+  transform: scale(0);
+  transition: transform 1.4s 0.07s;
+  z-index: -5;
+}
+
+.spread {
+  position: absolute;
+  top: -200px;
+  left: -200px;
+  transform-origin: 200px 200px;
+  transition: all 0.5s 0.1s;
+}
+
+.icon:hover {
+  /* Where all the MAGIC happens: */
+}
+
+.icon:hover .menu {
+  transition: transform 0.4s 0.08s, z-index   0s  0.5s;
+  transform: scale(1);
+  z-index: 5;
+}
+
+.icon:hover .spread, .icon:hover .unit {
+  transition: all 0.6s;
+}
+
+.icon:hover .spread:nth-child(1) {
+  transition-delay: 0.02s;
+  transform: rotate(77.7272727273deg);
+}
+
+.icon:hover .spread:nth-child(1) .unit {
+  transition-delay: 0.04s;
+  transform: rotate(642.2727272727deg);
+}
+
+.icon:hover .spread:nth-child(2) {
+  transition-delay: 0.04s;
+  transform: rotate(110.4545454545deg);
+}
+
+.icon:hover .spread:nth-child(2) .unit {
+  transition-delay: 0.08s;
+  transform: rotate(609.5454545455deg);
+}
+
+.icon:hover .spread:nth-child(3) {
+  transition-delay: 0.06s;
+  transform: rotate(143.1818181818deg);
+}
+
+.icon:hover .spread:nth-child(3) .unit {
+  transition-delay: 0.12s;
+  transform: rotate(576.8181818182deg);
+}
+
+.icon:hover .spread:nth-child(4) {
+  transition-delay: 0.08s;
+  transform: rotate(175.9090909091deg);
+}
+
+.icon:hover .spread:nth-child(4) .unit {
+  transition-delay: 0.16s;
+  transform: rotate(544.0909090909deg);
+}
+
+.icon:hover .spread:nth-child(5) {
+  transition-delay: 0.1s;
+  transform: rotate(208.6363636364deg);
+}
+
+.icon:hover .spread:nth-child(5) .unit {
+  transition-delay: 0.2s;
+  transform: rotate(511.3636363636deg);
+}
+
+.icon:hover .spread:nth-child(6) {
+  transition-delay: 0.12s;
+  transform: rotate(241.3636363636deg);
+}
+
+.icon:hover .spread:nth-child(6) .unit {
+  transition-delay: 0.24s;
+  transform: rotate(478.6363636364deg);
+}
+
+.icon:hover .spread:nth-child(7) {
+  transition-delay: 0.14s;
+  transform: rotate(274.0909090909deg);
+}
+
+.icon:hover .spread:nth-child(7) .unit {
+  transition-delay: 0.28s;
+  transform: rotate(445.9090909091deg);
+}
+
+.icon:hover .spread:nth-child(8) {
+  transition-delay: 0.16s;
+  transform: rotate(306.8181818182deg);
+}
+
+.icon:hover .spread:nth-child(8) .unit {
+  transition-delay: 0.32s;
+  transform: rotate(413.1818181818deg);
+}
+
+.icon:hover .spread:nth-child(9) {
+  transition-delay: 0.18s;
+  transform: rotate(339.5454545455deg);
+}
+
+.icon:hover .spread:nth-child(9) .unit {
+  transition-delay: 0.36s;
+  transform: rotate(380.4545454545deg);
+}
+
+.icon:hover .spread:nth-child(10) {
+  transition-delay: 0.2s;
+  transform: rotate(372.2727272727deg);
+}
+
+.icon:hover .spread:nth-child(10) .unit {
+  transition-delay: 0.4s;
+  transform: rotate(347.7272727273deg);
+}
+
+.icon:hover .spread:nth-child(11) {
+  transition-delay: 0.22s;
+  transform: rotate(405deg);
+}
+
+.icon:hover .spread:nth-child(11) .unit {
+  transition-delay: 0.44s;
+  transform: rotate(315deg);
+}
+
+/* END .icon:hover */
+.unit {
+  position: absolute;
+  background: white;
+  font-size: 60%;
+  text-decoration: none;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  color: dodgerblue;
+  border-radius: 50%;
+  transition: 0.6s;
+}
+
+a, ul, li {
+  margin: 0;
+  outline: 0;
+  padding: 0;
+  list-style: none;
+}
+
 .highlight .hll {
   background-color: #ffffcc;
 }
