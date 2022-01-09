@@ -609,111 +609,101 @@ div.search {
 
 .icon:hover .spread:nth-child(1) {
   transition-delay: 0.02s;
-  transform: rotate(77.7272727273deg);
+  transform: rotate(81deg);
 }
 
 .icon:hover .spread:nth-child(1) .unit {
   transition-delay: 0.04s;
-  transform: rotate(642.2727272727deg);
+  transform: rotate(639deg);
 }
 
 .icon:hover .spread:nth-child(2) {
   transition-delay: 0.04s;
-  transform: rotate(110.4545454545deg);
+  transform: rotate(117deg);
 }
 
 .icon:hover .spread:nth-child(2) .unit {
   transition-delay: 0.08s;
-  transform: rotate(609.5454545455deg);
+  transform: rotate(603deg);
 }
 
 .icon:hover .spread:nth-child(3) {
   transition-delay: 0.06s;
-  transform: rotate(143.1818181818deg);
+  transform: rotate(153deg);
 }
 
 .icon:hover .spread:nth-child(3) .unit {
   transition-delay: 0.12s;
-  transform: rotate(576.8181818182deg);
+  transform: rotate(567deg);
 }
 
 .icon:hover .spread:nth-child(4) {
   transition-delay: 0.08s;
-  transform: rotate(175.9090909091deg);
+  transform: rotate(189deg);
 }
 
 .icon:hover .spread:nth-child(4) .unit {
   transition-delay: 0.16s;
-  transform: rotate(544.0909090909deg);
+  transform: rotate(531deg);
 }
 
 .icon:hover .spread:nth-child(5) {
   transition-delay: 0.1s;
-  transform: rotate(208.6363636364deg);
+  transform: rotate(225deg);
 }
 
 .icon:hover .spread:nth-child(5) .unit {
   transition-delay: 0.2s;
-  transform: rotate(511.3636363636deg);
+  transform: rotate(495deg);
 }
 
 .icon:hover .spread:nth-child(6) {
   transition-delay: 0.12s;
-  transform: rotate(241.3636363636deg);
+  transform: rotate(261deg);
 }
 
 .icon:hover .spread:nth-child(6) .unit {
   transition-delay: 0.24s;
-  transform: rotate(478.6363636364deg);
+  transform: rotate(459deg);
 }
 
 .icon:hover .spread:nth-child(7) {
   transition-delay: 0.14s;
-  transform: rotate(274.0909090909deg);
+  transform: rotate(297deg);
 }
 
 .icon:hover .spread:nth-child(7) .unit {
   transition-delay: 0.28s;
-  transform: rotate(445.9090909091deg);
+  transform: rotate(423deg);
 }
 
 .icon:hover .spread:nth-child(8) {
   transition-delay: 0.16s;
-  transform: rotate(306.8181818182deg);
+  transform: rotate(333deg);
 }
 
 .icon:hover .spread:nth-child(8) .unit {
   transition-delay: 0.32s;
-  transform: rotate(413.1818181818deg);
+  transform: rotate(387deg);
 }
 
 .icon:hover .spread:nth-child(9) {
   transition-delay: 0.18s;
-  transform: rotate(339.5454545455deg);
+  transform: rotate(369deg);
 }
 
 .icon:hover .spread:nth-child(9) .unit {
   transition-delay: 0.36s;
-  transform: rotate(380.4545454545deg);
+  transform: rotate(351deg);
 }
 
 .icon:hover .spread:nth-child(10) {
   transition-delay: 0.2s;
-  transform: rotate(372.2727272727deg);
+  transform: rotate(405deg);
 }
 
 .icon:hover .spread:nth-child(10) .unit {
   transition-delay: 0.4s;
-  transform: rotate(347.7272727273deg);
-}
-
-.icon:hover .spread:nth-child(11) {
-  transition-delay: 0.22s;
-  transform: rotate(405deg);
-}
-
-.icon:hover .spread:nth-child(11) .unit {
-  transition-delay: 0.44s;
   transform: rotate(315deg);
 }
 

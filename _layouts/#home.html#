@@ -6,19 +6,19 @@ layout: default
   <ul class="menu">
     
     <li class="spread">
-          <a class="unit" href="#">Genji</a>
+          <a class="unit" href="/genji">Genji</a>
     </li>
     
     <li class="spread">
-          <a class="unit" href="#">Angels</a>
+          <a class="unit" href="/angels">Angels</a>
     </li>
     
     <li class="spread">
-      <a class="unit" href="#">B3ST</a>
+      <a class="unit" href="/b3st">B3ST</a>
     </li>
     
     <li class="spread">
-          <a class="unit" href="#">4team</a>
+          <a class="unit" href="/4">4team</a>
     </li>
     
     <li class="spread">
