@@ -35,7 +35,5 @@ permalink : angels
 | 27	| Razkya Karima		|  |
 | 28	| Rona Gita Ayu Ariani		|  |
 | 29	| Shaunee Dean Maxentia		|  |
-| 30	| Tiara Renata Paramesti		|  |
+| 30	| Tiara Renata Paramesti	|  |
 | 31	| Zeirah Eclesia Gabriella Rohi		|  |
-
-
