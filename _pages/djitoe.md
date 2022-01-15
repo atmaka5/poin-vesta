@@ -11,27 +11,27 @@ layout : page
 | 4 	| Aqila Fairuz Ghifari	  		|  |
 | 5 	| Aurellia Giovani A.	  		|  |
 | 6 	| Aushafel Fakhar Yustra	  		|  |
-| 7 	| Agisna P. Herlambang	  		|  |
-| 8 	| Agisna P. Herlambang	  		|  |
-| 9 	| Agisna P. Herlambang	  		|  |
-| 10 	| Agisna P. Herlambang	  		|  |
-| 11	| Agisna P. Herlambang	  		|  |
-| 12	| Agisna P. Herlambang	  		|  |
-| 13 	| Agisna P. Herlambang	  		|  |
-| 14	| Agisna P. Herlambang	  		|  |
-| 15	| Agisna P. Herlambang	  		|  |
-| 16	| Agisna P. Herlambang	  		|  |
-| 17 	| Agisna P. Herlambang	  		|  |
-| 18	| Agisna P. Herlambang	  		|  |
-| 19	| Agisna P. Herlambang	  		|  |
-| 20 	| Agisna P. Herlambang	  		|  |
-| 21 	| Agisna P. Herlambang	  		|  |
-| 22 	| Agisna P. Herlambang	  		|  |
-| 23 	| Agisna P. Herlambang	  		|  |
-| 24 	| Agisna P. Herlambang	  		|  |
-| 25 	| Agisna P. Herlambang	  		|  |
-| 26 	| Agisna P. Herlambang	  		|  |
-| 27 	| Agisna P. Herlambang	  		|  |
-| 28 	| Agisna P. Herlambang	  		|  |
-| 29 	| Agisna P. Herlambang	  		|  |
-| 30 	| Agisna P. Herlambang	  		|  |
+| 7 	| Calyalia Gustria N.	  		|  |
+| 8 	| Cloudyna Alba Ryan N.	  		|  |
+| 9 	| Daffa Agung Pratama	  		|  |
+| 10 	| Deva Atha Zafirah Adyma	  		|  |
+| 11	| Diffa Salsabilla M.	  		|  |
+| 12	| Faradila Araminta Putri	  		|  |
+| 13 	| Farel Vito Javiero	  		|  |
+| 14	| Gadiza Mutiara Narasti	  		|  |
+| 15	| Joddy Owen P.S.	  		|  |
+| 16	| Kentza Loudya B.A	  		|  |
+| 17 	| Khosyi W.F.	  		|  |
+| 18	| Luky Dwi Susanti	  		|  |
+| 19	| Michelle Moody H.	  		|  |
+| 20 	| M. Hisbullah Fachri A.  		|  |
+| 21 	| M. Bagas Paratama	  		|  |
+| 22 	| M. Fathur Rahman	  		|  |
+| 23 	| M. Nizar Al Ayyubi  		|  |
+| 24 	| Peggy Carissa W.	  		|  |
+| 25 	| R. Azriel Christian	  		|  |
+| 26 	| Rahma Indah Aulia  		|  |
+| 27 	| Rania Shafa D.	  		|  |
+| 28 	| Ratih Rahmalia Azizah	  		|  |
+| 29 	| Sitta Aghnia R.	  		|  |
+| 30 	| Syafirah Nareswari Radiant	  		|  |
