@@ -1,6 +1,6 @@
 ---
-title		: Lasso
-permalink	: /lasso
+title		: Arspan
+permalink	: /arspan
 layout		: page
 ---
 | No	| Nama Lengkap			| Poin Keaktifan |
