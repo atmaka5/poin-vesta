@@ -3,7 +3,7 @@
 @import "variables";
 
 html {
-    font-family: "Liberation Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     color: #fff;
     background: #222;
@@ -60,11 +60,11 @@ h1 {
 /*------------------------------*/
 /* Header
 /*------------------------------*/
-
-header {
-    background: $header;
-
-    a,
+  
+ header {
+     background: $header;
+     
+     a,
     a:visited,
     a:hover {
         color: $white;

@@ -6,7 +6,7 @@
     <meta name="author" content="{{ site.name }}" />
 
    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-
+<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
    {% if site.tags != "" %}	
    {% include collecttags.html %}
    {% endif %}
@@ -14,7 +14,7 @@
     {% if page.layout == 'post' %}
     <title>{{ page.title }}</title>
     {% else %}
-    <title>{{ page.tittle}} - {{ site.description }}</title>
+    <title>{{ page.title}} - {{ site.description }}</title>
     {% endif %}
     
     {% feed_meta %}
