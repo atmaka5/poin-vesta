@@ -7,37 +7,37 @@ layout		: page
 | No	| Nama Lengkap			| Poin Keaktifan |
 | ---  	| ----------- 	  		| -------------- |
 | 1 	| Abimanyu Duta Nalendra	  		|  |
-| 1 	| Amanda Lawdya Pramesti	  		|  |
-| 1 	| Anil Putra Pratama		|  |
-| 1 	| Anindya Khoirunnisya		|  |
-| 1 	| Apta Yatariya	  		|  |
-| 1 	| Ariel Rasya Ferdiansha	|  |
-| 1 	| Ariyani Hardiman		|  |
-| 1 	| Baiq Zahra Maulidia Millati Aisyah		| |
-| 1 	| Bilqis Sabrina Amarah		|  |
-| 1 	| Bintang Cahya Pratama		|  |
-| 1 	| Cantiqa Raisya Kusumawardani	|  |
-| 1 	| Cindy Chunsnulia Desaju	|  |
-| 1 	| Dennis Delano Olivia Hudzaifah|  |
-| 1 	| Dibyo Rena Nugraha		|  |
-| 1 	| Divan Vincent Ardysta		|  |
-| 1 	| Gardana Wong Alit		|  |
-| 1 	| Hasna Zahidah	  		|  |
-| 1 	| Levina Callysta 		|  |
-| 1 	| Lingga Kencana Ratu Wastiti	|  |
-| 1 	| Muhammad Bagas Treealdo	|  |
-| 1 	| Muhammad Bayu Zaqi Lukman Asir|  |
-| 1 	| Muhammad Ilham Asrori Al-Masyhuri | |
-| 1 	| Muhammad Yusuf  		|  |
-| 1 	| Mutiara Puspita Utami		|  |
-| 1 	| Nadiva Dwi Hidayah		|  |
-| 1 	| Nadya Pertama Putri Az Zahra	|  |
-| 1 	| Naufal Abdhur Rozaq		|  |
-| 1 	| Nevada Pranwati Arta		|  |
-| 1 	| Ridho Syah Putra		|  |
-| 1 	| Saiidah Dzakiyyah Nugroho Putri	| |
-| 1 	| Salsabiela Naurah Hasanah	|  |
-| 1 	| Satria Yoga Eka Prasetyo	|  |
-| 1 	| Sharfina Armalia Hirzi	|  |
-| 1 	| Syarif Hidayatullah		|  |
-| 1 	| Yukari Sasi Kirani		|  |
+| 2 	| Amanda Lawdya Pramesti	  		|  |
+| 3 	| Anil Putra Pratama		|  |
+| 4 	| Anindya Khoirunnisya		|  |
+| 5 	| Apta Yatariya	  		|  |
+| 6 	| Ariel Rasya Ferdiansha	|  |
+| 8 	| Ariyani Hardiman		|  |
+| 9 	| Baiq Zahra Maulidia Millati Aisyah		| |
+| 10 	| Bilqis Sabrina Amarah		|  |
+| 11 	| Bintang Cahya Pratama		|  |
+| 12 	| Cantiqa Raisya Kusumawardani	|  |
+| 13 	| Cindy Chunsnulia Desaju	|  |
+| 14 	| Dennis Delano Olivia Hudzaifah|  |
+| 15	| Dibyo Rena Nugraha		|  |
+| 16 	| Divan Vincent Ardysta		|  |
+| 17 	| Gardana Wong Alit		|  |
+| 18 	| Hasna Zahidah	  		|  |
+| 19 	| Levina Callysta 		|  |
+| 20 	| Lingga Kencana Ratu Wastiti	|  |
+| 21 	| Muhammad Bagas Treealdo	|  |
+| 22	| Muhammad Bayu Zaqi Lukman Asir|  |
+| 23	| Muhammad Ilham Asrori Al-Masyhuri | |
+| 24	| Muhammad Yusuf  		|  |
+| 25	| Mutiara Puspita Utami		|  |
+| 26	| Nadiva Dwi Hidayah		|  |
+| 27	| Nadya Pertama Putri Az Zahra	|  |
+| 28	| Naufal Abdhur Rozaq		|  |
+| 29	| Nevada Pranwati Arta		|  |
+| 30	| Ridho Syah Putra		|  |
+| 31	| Saiidah Dzakiyyah Nugroho Putri	| |
+| 32	| Salsabiela Naurah Hasanah	|  |
+| 33	| Satria Yoga Eka Prasetyo	|  |
+| 34	| Sharfina Armalia Hirzi	|  |
+| 35	| Syarif Hidayatullah		|  |
+| 36	| Yukari Sasi Kirani		|  |
